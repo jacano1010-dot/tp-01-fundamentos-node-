@@ -1,0 +1,11 @@
+FICHA DE VIDEOJUEGO
+=================
+Estudiante: Estudiante
+Node.js: v24.19.0
+Plataforma del sistema: darwin
+
+Título: The Witcher 3:Wild Hunt
+Estudio: CD Projekt Red
+Año: 2015
+Plataformas: PC, PlayStation 4, Xbox One, Nintendo Swicht, PlayStation5, Xbox Series X/S
+¿Es multijugador?: No
