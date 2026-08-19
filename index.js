@@ -1,4 +1,4 @@
-const nombre = process.argv[2] ?? "Juan ";
+const nombre = process.argv[2] ?? "Juan Andrés Cano Campos";
 console.log(`Bienvenido: ${nombre}`);
 console.log("Versión de Node.js:", process.version);
 console.log("Plataforma:", process.platform);
