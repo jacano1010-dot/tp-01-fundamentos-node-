@@ -1,6 +1,6 @@
 FICHA DE VIDEOJUEGO
 =================
-Estudiante: Estudiante
+Estudiante: Juan Andrés Cano Campos
 Node.js: v24.19.0
 Plataforma del sistema: darwin
 
